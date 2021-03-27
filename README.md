@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hola Mundo! 💩
 
 <!--
 **vazpeitiah/vazpeitiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on TLS L
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Mi nombre es Vladimir Azpeitia, soy un desarrollador de software  y actualmente estudio en la universidad. Soy un adicto al café. 
+![Coffe gif](http://media.giphy.com/media/B7EaoTf3D0k5G/giphy.gif)
+A ti que estás viendo esto, espero ayudarte con lo que tengo aquí. Y si quieres dejar alguna retroalimentación puedes contactarme a vazpeitiah@gmail.com. Te deseo lo mejor y que la fuerza te acompañe.
