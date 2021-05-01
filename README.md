@@ -1,6 +1,6 @@
 ### Hola Mundo!
 
-![Mi CV](https://vazpeitiah.github.io/resume/)
+[Mi CV](https://vazpeitiah.github.io/resume/)
 
 Mi nombre es Vladimir Azpeitia, soy un desarrollador de software y actualmente estudio en la universidad. Me encanta el café 
 
