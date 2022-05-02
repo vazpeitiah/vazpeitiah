@@ -1,4 +1,4 @@
-![](https://i.imgur.com/Ur3VlQ4.png)
+![](https://i.imgur.com/GGRq1cn.png)
 <!--
 **vazpeitiah/vazpeitiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
