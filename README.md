@@ -2,13 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Vladimir Azpeitia Hernández</h1>
 
-- 👨‍💻 All of my projects are available at [https://vazpeitiah.github.io/projects/](https://vazpeitiah.github.io/projects/)
-
-- 📝 I regularly write articles on [https://vazpeitiah.github.io/blog/](https://vazpeitiah.github.io/blog/)
-
-- 📫 How to reach me **vazpeitiah@gmail.com**
-
-- 📄 Know about my experiences [https://vazpeitiah.github.io/assets/files/cv2.pdf](https://vazpeitiah.github.io/assets/files/cv2.pdf)
+My name is Vladimir, I am a software developer and technology enthusiast. I am passionate about writing, reading and play videogames.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
