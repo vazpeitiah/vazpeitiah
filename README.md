@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vladimir Azpeitia Hernández</h1>
+<h1 align="center">Vladimir Azpeitia Hernández</h1>
 
 My name is Vladimir, I am a software developer and technology enthusiast. I am passionate about writing, reading and play videogames.
 
