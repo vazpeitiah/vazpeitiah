@@ -1,6 +1,5 @@
 <h1 align="center">Vladimir Azpeitia Hernández</h1>
-
-My name is Vladimir, I am a software developer and technology enthusiast. I am passionate about writing, reading and play videogames.
+A frontend developer from Mexico 🇲🇽
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
