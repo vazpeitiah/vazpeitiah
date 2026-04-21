@@ -1,7 +1,13 @@
-### Hey, I'm Vlad 👋
+<div align="center">
 
-Frontend developer based in CDMX 🇲🇽 — I build interfaces that feel good to use.  
-Currently crafting UIs at a startup and working on my own projects on the side.
+# Hey, I'm Vlad 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=6EE7B7&center=true&vCenter=true&width=600&lines=First%2C+solve+the+problem.+Then%2C+write+the+code.;Make+it+work.+Make+it+right.+Make+it+fast.;Clean+code+is+not+written+by+following+rules.;Any+application+that+can+be+written+in+JS%2C+will+be.;Simplicity+is+the+soul+of+efficiency.;Code+is+like+humor.+When+you+have+to+explain+it%2C+it%27s+bad.)](https://git.io/typing-svg)
+
+Frontend developer based in CDMX 🇲🇽  
+I build interfaces that feel good to use.
+
+</div>
 
 ---
 
