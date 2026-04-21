@@ -15,7 +15,7 @@ I build interfaces that feel good to use.
 
 | Project | Description | Stack |
 |---|---|---|
-| **[PonyApp](https://github.com/vazpeitiah/ponyapp)** | Veterinary clinic management app | React · TypeScript |
+| **[PonyApp](https://app.ponyvet.com/)** | Veterinary clinic management app | React · TypeScript |
 
 ---
 
